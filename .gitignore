@@ -1,1 +1,5 @@
 /target
+week2/*
+!week2/*.s
+!week2/readme.md
+!week2/Makefile
