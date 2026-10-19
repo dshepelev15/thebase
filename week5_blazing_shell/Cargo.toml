@@ -1,0 +1,4 @@
+[package]
+name = "week5_blazing_shell"
+version = "0.1.0"
+edition = "2024"
